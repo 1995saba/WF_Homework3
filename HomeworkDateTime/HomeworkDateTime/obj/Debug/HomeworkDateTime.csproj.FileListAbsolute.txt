@@ -1,0 +1,9 @@
+C:\Users\HP\Documents\Visual Studio 2017\Projects\HomeworkDateTime\HomeworkDateTime\bin\Debug\HomeworkDateTime.exe.config
+C:\Users\HP\Documents\Visual Studio 2017\Projects\HomeworkDateTime\HomeworkDateTime\bin\Debug\HomeworkDateTime.exe
+C:\Users\HP\Documents\Visual Studio 2017\Projects\HomeworkDateTime\HomeworkDateTime\bin\Debug\HomeworkDateTime.pdb
+C:\Users\HP\Documents\Visual Studio 2017\Projects\HomeworkDateTime\HomeworkDateTime\obj\Debug\HomeworkDateTime.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2017\Projects\HomeworkDateTime\HomeworkDateTime\obj\Debug\HomeworkDateTime.FormDayOfWeek.resources
+C:\Users\HP\Documents\Visual Studio 2017\Projects\HomeworkDateTime\HomeworkDateTime\obj\Debug\HomeworkDateTime.Properties.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2017\Projects\HomeworkDateTime\HomeworkDateTime\obj\Debug\HomeworkDateTime.csproj.GenerateResource.Cache
+C:\Users\HP\Documents\Visual Studio 2017\Projects\HomeworkDateTime\HomeworkDateTime\obj\Debug\HomeworkDateTime.exe
+C:\Users\HP\Documents\Visual Studio 2017\Projects\HomeworkDateTime\HomeworkDateTime\obj\Debug\HomeworkDateTime.pdb
